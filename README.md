@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Albi Saifudeen
+I'm Albi S
 
 🧠 **AI Engineer | Computer Vision | LLM | RAG | MLOps**  
 💼 Currently Working as anAI Data Analyst & AI Engineer — building, evaluating & benchmarking CV, ML, DL and LLM models  
