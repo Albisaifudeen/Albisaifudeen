@@ -2,7 +2,7 @@
 I'm Albi S
 
 🧠 **AI Engineer | Computer Vision | LLM | RAG | MLOps**  
-💼 Currently Working as anAI Data Analyst & AI Engineer — building, evaluating & benchmarking CV, ML, DL and LLM models  
+💼 Currently Working as an AI Data Analyst & AI Engineer — building, evaluating & benchmarking CV, ML, DL and LLM models  
 🔍 Focused on: Computer Vision · NLP · LLMs · RAG · GenAI · MLOps  
 
 ---
