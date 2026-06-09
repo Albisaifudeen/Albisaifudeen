@@ -74,7 +74,6 @@ I'm Albi S
 **Data & Explainability**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF6600?style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
 ---
@@ -86,7 +85,7 @@ Computer Vision          ██████████████████�
 Machine Learning         ████████████████████  Expert
 Deep Learning            ██████████████████░░  Advanced
 LLM / RAG / GenAI        █████████████████░░░  Advanced
-MLOps & Deployment       ████████████████░░░░  Advanced
+MLOps & Deployment       ███████████████░░░░░  Intermediate
 NLP                      ███████████████░░░░░  Intermediate
 ```
 
