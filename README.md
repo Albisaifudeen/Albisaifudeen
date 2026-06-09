@@ -18,7 +18,7 @@ I'm Albi Saifudeen
 | [LLM RAG Chatbot](https://github.com/Albisaifudeen/llm-rag-chatbot) | RAG-based chatbot with vector search & OpenAI | LangChain, OpenAI, Pinecone, Flask |
 | [Personal AI Chatbot](https://github.com/Albisaifudeen/personal-ai-chatbot) | LLaMA-powered personal chatbot via Groq API | Python, Groq, LLaMA |
 | [QR & Barcode Generator/Scanner](https://github.com/Albisaifudeen/QR-Barcode-Generator-and-Scanner) | Generate & scan QR codes and barcodes via CV | OpenCV, Streamlit, ZXing |
-| [Python Mini Projects](https://github.com/Albisaifudeen/Python) | Game collection — TicTacToe and more | Python |
+
 
 ---
 
