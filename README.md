@@ -46,10 +46,18 @@ I'm Albi S
 
 **LLM / GenAI / RAG**  
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B4FBB?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat)
 ![Groq](https://img.shields.io/badge/Groq-FF6B35?style=flat)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+
+**Vector Databases**  
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
+![Weaviate](https://img.shields.io/badge/Weaviate-FF6D00?style=flat)
 
 **MLOps / Deployment**  
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
@@ -59,12 +67,16 @@ I'm Albi S
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+**Cloud & Platforms**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
 **Data & Explainability**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-FF6600?style=flat)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat)
 ---
 
 ## 🧠 Areas of Expertise
