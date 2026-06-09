@@ -79,17 +79,6 @@ MLOps & Deployment       ████████████████░░�
 NLP                      ███████████████░░░░░  Intermediate
 ```
 
----
-
-## 📊 GitHub Stats
-
-![Albi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albisaifudeen&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Albisaifudeen&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Albisaifudeen&theme=tokyonight&hide_border=true)
-
----
 
 ## 📫 Contact Me
 
