@@ -29,7 +29,7 @@ I'm Albi S
 🤖  Develop LLM, RAG & GenAI pipelines
 ✅  QA & quality control of datasets and models
 🚀  Deploy models via FastAPI, Streamlit & REST API
-🧪  Model benchmarking, stress testing & performance analysis
+🧪  Model benchmarking,testing & performance analysis
 ```
 
 ---
