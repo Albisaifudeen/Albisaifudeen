@@ -83,7 +83,7 @@ I'm Albi S
 
 ```
 Computer Vision          ████████████████████  Expert
-Machine Learning         ████████████████████  Expert
+Machine Learning         ██████████████████░░  Advanced
 Deep Learning            ██████████████████░░  Advanced
 LLM / RAG / GenAI        █████████████████░░░  Advanced
 MLOps & Deployment       ███████████████░░░░░  Intermediate
