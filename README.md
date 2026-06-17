@@ -15,7 +15,7 @@ I'm Albi S
 | [MobileNetV3 Blur Detection](https://github.com/Albisaifudeen/mobilenetv3-blur-detection) | Image quality assessment — blur, contrast, shadows | PyTorch, OpenCV, FastAPI |
 | [XreenMe — AI Resume Screener](https://github.com/Albisaifudeen/XreenMe) | Semantic resume screening beyond keyword matching | SBERT, Groq, LLaMA3, Streamlit |
 | [LLM RAG Chatbot](https://github.com/Albisaifudeen/llm-rag-chatbot) | RAG-based chatbot with vector search & OpenAI | LangChain, OpenAI, Pinecone, Flask |
-| [Personal AI Chatbot](https://github.com/Albisaifudeen/personal-ai-chatbot) | LLaMA-powered personal chatbot via Groq API | Python, Groq, LLaMA |
+| [Personal AI Chatbot](https://github.com/Albisaifudeen/personal-ai-chatbot) | LLaMA-powered personal chatbot | Python, Groq, LLaMA |
 | [QR & Barcode Generator/Scanner](https://github.com/Albisaifudeen/QR-Barcode-Generator-and-Scanner) | Generate & scan QR codes and barcodes via CV | OpenCV, Streamlit, ZXing |
 
 
