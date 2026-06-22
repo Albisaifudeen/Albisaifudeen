@@ -11,7 +11,7 @@ I'm Albi S
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Customer Churn Prediction](https://github.com/Albisaifudeen/customer-churn-prediction) | End-to-end churn prediction with REST API — ROC AUC 0.83 | XGBoost, SHAP, MLflow, FastAPI |
+| [Customer Churn Prediction](https://github.com/Albisaifudeen/customer-churn-prediction) | End-to-end Teleco churn prediction with REST API — ROC AUC 0.83 | XGBoost, SHAP, MLflow, FastAPI |
 | [MobileNetV3 Blur Detection](https://github.com/Albisaifudeen/mobilenetv3-blur-detection) | Image quality assessment — blur, contrast, shadows | PyTorch, OpenCV, FastAPI |
 | [XreenMe — AI Resume Screener](https://github.com/Albisaifudeen/XreenMe) | Semantic resume screening beyond keyword matching | SBERT, Groq, LLaMA3, Streamlit |
 | [LLM RAG Chatbot](https://github.com/Albisaifudeen/llm-rag-chatbot) | RAG-based chatbot with vector search & OpenAI | LangChain, OpenAI, Pinecone, Flask |
